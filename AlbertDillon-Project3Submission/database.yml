@@ -1,0 +1,9 @@
+users:
+  albert@hotmail.com:
+    username: albert@hotmail.com
+    articleIds: []
+    commentIds: []
+articles: {}
+nextArticleId: 1
+comments: {}
+nextCommentId: 1
